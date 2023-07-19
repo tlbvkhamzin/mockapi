@@ -107,6 +107,114 @@
     { "id": "88d99a2b-f5ba-41cd-9827-0da4959b5369", "name": "Too expensive", "order": 10, "active": false },
     { "id": "e62ee8b4-8f10-4dfa-937a-4211da24f5af", "name": "Disappeared", "order": 40, "active": false }
   ],
+  "menuItems": [
+    {
+      "name": "Cheeseburger",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Coleslaw",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "French fries",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Cola Zero",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Fanta",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Sprite",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Chicken Nuggets",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Caesar Salad",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Chicken Kebab",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Greek Salad",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Shawarma",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Rice with chicken",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Fish and chips",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    },
+    {
+      "name": "Combo Mix Grill Platter",
+      "status": "9d6a37d9-de35-4e57-8f4f-69dd506023ab"
+    },
+    {
+      "name": "Kofte Sandwich Beef",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Shrimps",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Arabic Salad",
+      "status": "e62ee8b4-8f10-4dfa-937a-4211da24f5af"
+    },
+    {
+      "name": "Seafood Soup",
+      "status": "9d305db5-ac98-44c2-b89a-dfb27fc838c1"
+    },
+    {
+      "name": "Lentil with potato soup",
+      "status": "88d99a2b-f5ba-41cd-9827-0da4959b5369"
+    },
+    {
+      "name": "Biryani Maleh",
+      "status": "38d4f887-add9-416a-8590-8352c6e28e13"
+    },
+    {
+      "name": "Orange Juice",
+      "status": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f"
+    },
+    {
+      "name": "Water",
+      "status": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c"
+    },
+    {
+      "name": "Fried Squid",
+      "status": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25"
+    }
+  ],
+  "menuStatuses": [
+    { "id": "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25", "name": "Pending review", "order": 20, "active": true },
+    { "id": "9d305db5-ac98-44c2-b89a-dfb27fc838c1", "name": "New", "order": 10, "active": true },
+    { "id": "9d6a37d9-de35-4e57-8f4f-69dd506023ab", "name": "Active", "order": 40, "active": true },
+    { "id": "209d22b9-dc63-468e-a6d6-9cc2a0f2ae1f", "name": "In review", "order": 30, "active": true },
+    { "id": "38d4f887-add9-416a-8590-8352c6e28e13", "name": "Archived", "order": 20, "active": false },
+    { "id": "b9792e48-ebf2-4859-8bcb-bdee6a82f26c", "name": "Declined", "order": 10, "active": false },
+    { "id": "88d99a2b-f5ba-41cd-9827-0da4959b5369", "name": "Removed by vendor", "order": 10, "active": false },
+    { "id": "e62ee8b4-8f10-4dfa-937a-4211da24f5af", "name": "Removed by agent", "order": 40, "active": false }
+  ],
   "breakdown": {
    "d29f1ddb-9ecb-4752-b2fd-e29cf653fc25": 10,
    "9d305db5-ac98-44c2-b89a-dfb27fc838c1": 12,
